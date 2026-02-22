@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="banner.png" width="100%" alt="SimonFastWeb Banner" />
-  
-  <br/>
+
 
   # ⚡ SENIOR SYSTEMS & AUTOMATION ARCHITECT
   ### *Transforming complex workflows into ultra-fast digital ecosystems.*
@@ -42,10 +39,9 @@
 
 ## 📈 SYSTEM ANALYTICS (LIVE STATS)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=K4czuchaaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=03040b" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4czuchaaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=03040b" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=K4czuchaaa&show_icons=true&theme=transparent&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4czuchaaa&layout=compact&theme=transparent&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6&hide_border=true" height="170" />
 </div>
-
 ---
 
 ## 🛡️ WORKFLOW ARCHITECTURE
