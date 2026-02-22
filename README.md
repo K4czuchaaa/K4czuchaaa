@@ -39,8 +39,8 @@
 
 ## 📈 SYSTEM ANALYTICS (LIVE STATS)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=K4czuchaaa&show_icons=true&theme=transparent&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4czuchaaa&layout=compact&theme=transparent&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=K4czuchaaa&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4czuchaaa&layout=compact&theme=radical&hide_border=true" height="170" />
 </div>
 ---
 
