@@ -41,10 +41,10 @@
 
 | SYSTEM | CORE TECH | DELIVERY TIME |
 | :--- | :--- | :--- |
-| **Chrome Automation** | Manifest V3 / JS | 3 - 7 Days |
-| **SaaS Dashboards** | React / Tailwind | 5 - 12 Days |
+| **Chrome Automation** | Manifest V3 / JS | 1 - 5 Days |
+| **SaaS Dashboards** | React / Tailwind | 2 - 6 Days |
 | **Data Scrapers** | Node.js / Python | 2 - 5 Days |
-| **API Integration** | REST / GraphQL | 2 - 4 Days |
+| **API Integration** | REST / GraphQL | 1 - 4 Days |
 
 ---
 
