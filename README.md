@@ -1,6 +1,6 @@
 
 
-  # ⚡ SENIOR SYSTEMS & AUTOMATION ARCHITECT
+  # ⚡ MID SYSTEMS & AUTOMATION ARCHITECT
   ### *Transforming complex workflows into ultra-fast digital ecosystems.*
 
   <br/>
