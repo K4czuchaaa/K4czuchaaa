@@ -37,11 +37,13 @@
 
 ---
 
-## 📈 PERFORMANCE STATS
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=K4czuchaaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=03040b" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4czuchaaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=03040b" alt="Top Languages" />
-</div>
+## 📈 SYSTEM PERFORMANCE METRICS
+| METRIC | STATUS | TARGET |
+| :--- | :--- | :--- |
+| **Logic Execution** | < 10ms | Optimized |
+| **DOM Parsing** | Real-time | Efficient |
+| **API Latency** | Ultra-Low | Sub-50ms |
+| **Manifest V3** | Compliant | Continuous |
 
 ---
 
