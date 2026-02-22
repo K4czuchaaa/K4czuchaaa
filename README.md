@@ -37,11 +37,19 @@
 
 ---
 
-## 📈 SYSTEM ANALYTICS (LIVE STATS)
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=K4czuchaaa&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4czuchaaa&layout=compact&theme=radical&hide_border=true" height="170" />
-</div>
+## 📈 SERVICE SPECIALIZATIONS & AVAILABILITY
+
+| SYSTEM | CORE TECH | DELIVERY TIME |
+| :--- | :--- | :--- |
+| **Chrome Automation** | Manifest V3 / JS | 3 - 7 Days |
+| **SaaS Dashboards** | React / Tailwind | 5 - 12 Days |
+| **Data Scrapers** | Node.js / Python | 2 - 5 Days |
+| **API Integration** | REST / GraphQL | 2 - 4 Days |
+
+---
+
+### 🚀 CURRENT CAPACITY: **Accepting New Projects**
+*Priority given to high-end automation and SaaS architectures.*
 ---
 
 ## 🛡️ WORKFLOW ARCHITECTURE
