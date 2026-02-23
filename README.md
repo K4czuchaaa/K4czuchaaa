@@ -42,8 +42,7 @@
 
 | PROJECT | DESCRIPTION | TECH STACK |
 | :--- | :--- | :--- |
-| **[Aether-Scale Intelligence](https://github.com/K4czuchaaa/chrome-extension-pro-boilerplate)** | Enterprise Grade Scraper Engine v4 | [JS](cci:1://file:///c:/Users/aga76/.gemini/antigravity/scratch/kody/github/project2/src/services/Exporter.js:8:4-28:5) `V3` `SidePanel` |
-| **Nexus-Core Engine** | Shadow DOM Automation Framework | [JS](cci:1://file:///c:/Users/aga76/.gemini/antigravity/scratch/kody/github/project2/src/services/Exporter.js:8:4-28:5) `DOM-Mutation` |
+| **[Aether-Scale Intelligence](https://github.com/K4czuchaaa/chrome-extension-pro-boilerplate)** | Enterprise Grade Scraper Engine v4 | `JS` `Manifest V3` `SidePanel API` |
 
 </div>
 
