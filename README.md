@@ -42,10 +42,10 @@
 
 | PROJECT | DESCRIPTION | TECH STACK |
 | :--- | :--- | :--- |
-| **[Aether-Scale Intelligence](https://github.com/K4czuchaaa/chrome-extension-pro-boilerplate)** | Enterprise Grade Scraper Engine v4 | `JS` `Manifest V3` `SidePanel API` |
+| **[Aether Intelligence](https://k4czuchaaa.github.io/chrome-extension-pro-boilerplate/)** | Enterprise Scraper Engine v4 | [JS](cci:1://file:///c:/Users/aga76/.gemini/antigravity/scratch/kody/github/project2/src/services/Exporter.js:8:4-28:5) `V3` `SidePanel` |
+| **[Nexus Stabilizer](https://k4czuchaaa.github.io/nexus-stabilizer-engine/)** | Interactive Bug Fixing Demo | `JS` `Performance` |
 
 </div>
-
 ---
 
 ## 🛡️ WORKFLOW & CLIENT TRUST
