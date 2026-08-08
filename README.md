@@ -81,7 +81,6 @@ Rapid development using modern ES6+ standards. I focus on performance, ensuring 
 ---
 
 ## 📬 READY TO SCALE YOUR VISION?
-**[🚀 HIRE ME ON FIVERR](https://www.fiverr.com/afastweb_)**
 
 <br/>
 
