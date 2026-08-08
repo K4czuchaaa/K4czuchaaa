@@ -85,6 +85,3 @@ Rapid development using modern ES6+ standards. I focus on performance, ensuring 
 
 <br/>
 
-<div align="center">
-  <sub>Built by <b>SimonFastWeb</b> | Powered by Pure Engineering 🦾</sub>
-</div>
